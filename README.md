@@ -1,2 +1,2 @@
 # Tinyone
-html css bt5
+ https://sanzidasweetie.github.io/Tinyone/
